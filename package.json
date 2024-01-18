@@ -1,0 +1,17 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "A quiz app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type":"git",
+    "url": "git+"
+  },
+  "keywords": [],
+  "author": "Perpetual",
+  "license": "ISC"
+}
